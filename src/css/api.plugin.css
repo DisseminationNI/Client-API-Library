@@ -11,7 +11,7 @@ API - Plugin - Scroll to Top
     height: 50px;
     border-radius: 50%;
     display: none;
-    background-color: #00ada8;
+    background-color: #417abd;
     opacity: .5;
     transition: all .3s ease-in-out;
 }
